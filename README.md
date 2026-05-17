@@ -19,7 +19,7 @@
 - 🌱 Deepening my expertise in **Django**, **FastAPI**, and **ML pipelines**
 - 👯 Looking to collaborate on **Open Source** projects in **Data Analytics** or **Web Dev**
 - 💬 Ask me about: **Python, C++, SQL, Data Visualization, Web Scraping**
-- 📫 Reach me: **shubham.tidke@example.com** (Update with your actual email)
+- 📫 Reach me: **tidkeshubham826@gmail.com** 
 - ⚡ Fun fact: I love turning messy data into beautiful stories 📊✨
 
 <br clear="both"/>
