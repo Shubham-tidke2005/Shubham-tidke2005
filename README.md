@@ -102,6 +102,7 @@
 </div>
 
 <div align="center">
+  ![Snake animation](https://githubusercontent.com)
   <img src="https://raw.githubusercontent.com/Shubham-tidke2005/Shubham-tidke2005/output/snake.svg" alt="Snake animation" />
 </div>
 
