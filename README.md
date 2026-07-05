@@ -15,7 +15,7 @@
 <img align="right" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif" />
 
 - 🎓 **B.E. Computer Science** @ SNJB College of Engineering, Nashik (2027)
-- 🔭 I'm currently **Focusing** on **Data Science** & **Python Full-Stack** projects
+- 🔭 I'm currently **Focusing** on **Data Science** & **Python Full-Stack** projects.
 - 🌱 Deepening my expertise in **Django**, **FastAPI**, and **ML pipelines**
 - 👯 Looking to collaborate on **Open Source** projects in **Data Analytics** or **Web Dev**
 - 💬 Ask me about: **Python, C++, SQL, Data Visualization, Web Scraping**
