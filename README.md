@@ -14,14 +14,7 @@
 
 <br/>
 
-<!-- ====== PROFILE VISITOR COUNTER ====== -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shubham-tidke2005&label=👀%20Profile%20Visitors&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/followers/Shubham-tidke2005?label=👥%20Followers&style=for-the-badge&color=purple" alt="GitHub Followers" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/github/stars/Shubham-tidke2005?label=⭐%20Total%20Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-</div>
+
 
 <br/>
 
