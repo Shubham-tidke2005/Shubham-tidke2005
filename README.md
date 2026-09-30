@@ -1,394 +1,396 @@
-<!-- README.md for Shubham Tidke - GitHub Profile -->
-
-<!-- ====== ANIMATED HERO BANNER ====== -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=Hello+%F0%9F%91%8B;I'm+Shubham+Tidke;Machine+Learning+Engineer;Full-Stack+Developer;Data+Science+Enthusiast;Python+%7C+React+%7C+Django+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- ====== ANIMATED WAVING HAND ====== -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309390-5fb3bb42-68be-4a96-8a26-ec6b5a2d248f.gif" width="60" />
-</div>
-
-<br/>
-
-
-
-<br/>
-
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ====== ABOUT ME ====== -->
-## 👨‍💻 **About Me**
-
-<table align="center">
-<tr>
-<td width="60%">
-
-I'm a passionate **Machine Learning & Full-Stack Developer** with expertise in building intelligent AI solutions and production-ready web applications. Currently pursuing my **Bachelor of Engineering in Computer Engineering** at Savitribai Phule Pune University with an impressive **9.2/10 CGPA**.
-
-🚀 **What I'm all about:**
-- 🤖 Building intelligent ML solutions that solve real-world problems
-- 🌐 Developing full-stack web applications with **React, Django, PHP, JSP & Servlets**
-- 📊 Turning raw data into actionable insights
-- 🔄 Bridging the gap between AI models and production-ready applications
-- 💡 Constantly learning and exploring new technologies
-
-📫 **Reach me at:**  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tidkeshubham826@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-tidke-0a6ab12a1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/cYApcBnFzX)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tidkeshuxaqd)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham-tidke2005)
-
-</td>
-<td width="40%" align="center">
-  <img alt="Coding" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
-  <br/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</td>
-</tr>
-</table>
-
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ====== TECH STACK ====== -->
-## 🚀 **Tech Stack**
-
-### 💻 **Programming Languages**
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</div>
-
-### 📚 **Libraries**
-<div align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLAlchemy-CC2927?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
-</div>
-
-### 🤖 **Machine Learning**
-<div align="center">
-  <img src="https://img.shields.io/badge/Classification-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Regression-008000?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Decision_Trees-FF4500?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Random_Forest-228B22?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Logistic_Regression-4169E1?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-FF1493?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model_Evaluation-8B008B?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cross_Validation-2E8B57?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hyperparameter_Tuning-DAA520?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</div>
-
-### ⚛️ **Frameworks**
-<div align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST-FF1709?style=for-the-badge&logo=django&logoColor=white" />
-</div>
-
-### 🗄️ **Databases**
-<div align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</div>
-
-### 🛠️ **Tools**
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</div>
-
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ====== SKILLS SUMMARY (FROM RESUME) ====== -->
-## 📋 **Complete Skills Summary**
-
 <div align="center">
 
-| Category | Skills |
-|----------|--------|
-| **Programming Languages** | Python, SQL, C++, Java, JavaScript, PHP |
-| **Libraries** | Pandas, NumPy, Scikit-Learn, Matplotlib, Plotly, SQLAlchemy |
-| **Machine Learning** | Classification, Regression, Decision Trees, Random Forest, Logistic Regression, Feature Engineering, Feature Selection, Model Evaluation, Cross Validation, Hyperparameter Tuning |
-| **Frameworks** | FastAPI, React, Tailwind CSS, Django, |
-| **Databases** | MySQL, SQLite, PostgreSQL, MongoDB |
-| **Tools** | Git, GitHub, Power BI, Jupyter Notebook, VS Code, Docker, Ubuntu, Postman |
+# 👋 Hi, I'm Shubham Tidke
+
+### 🐍 Python Full Stack Developer • 🤖 Machine Learning • 📊 Data Science
+
+<p>
+  <a href="https://github.com/Shubham-tidke2005">
+    <img src="https://img.shields.io/badge/GitHub-Shubham--tidke2005-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shubham-tidke-0a6ab12a1">
+    <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Tidke-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:tidkeshubham826@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/cYApcBnFzX/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Shubham-tidke2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ====== FULL STACK DEVELOPMENT EXPERTISE ====== -->
-## 🌐 **Full-Stack Development Expertise**
+## 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500" alt="Full Stack Development" />
-</div>
+I'm a **Computer Engineering student** and a **Python Full Stack Developer** with a strong interest in **Machine Learning, Data Science, backend engineering, and AI-powered applications**.
 
-### 🎯 **My Web Development Toolkit**
+I enjoy turning real-world problems into practical software by combining:
 
-<div align="center">
+- 🐍 Python backend development
+- ⚡ REST API design with FastAPI & Django
+- ⚛️ Modern frontend development with React
+- 🗄️ Relational database design & ORM
+- 🤖 Machine Learning and data-driven solutions
+- 🔐 Authentication, authorization & RBAC
+- 🐳 Docker-based development
+- 📊 Data analysis and visualization
 
-| Layer | Technologies |
-|-------|--------------|
-| **Frontend** | React, Tailwind CSS, HTML5, CSS3, JavaScript |
-| **Backend** | FastAPI, Django, PHP, Java (JSP & Servlets) |
-| **APIs** | REST APIs, API-driven development |
-| **Databases** | MySQL, SQLite, PostgreSQL, MongoDB |
-| **Deployment** | Docker, Ubuntu, Git, GitHub |
+Currently, I'm focused on building **production-style full-stack applications** and strengthening my foundations in **DSA, Machine Learning, system design, and backend engineering**.
 
-</div>
+---
 
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 🛠️ Tech Stack
 
-<!-- ====== FEATURED PROJECTS ====== -->
-## 📂 **Featured Projects**
+### 💻 Languages
 
-<!-- FLIGHT PRICE PREDICTION -->
-<details>
-<summary><b>🛫 Flight Price Prediction System</b> <i>(Click to expand)</i></summary>
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,php" />
+</p>
 
-> *React + FastAPI + Scikit-Learn + Random Forest*
+### ⚙️ Backend & APIs
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham-tidke2005/Flight-Price-Prediction)
+<p>
+  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+</p>
 
-🚀 **Built a full-stack ML application** predicting flight prices from **300K+ records** with **98.49% R²** accuracy!
+**Also working with:** Django REST Framework • Pydantic • SQLAlchemy • Alembic • REST APIs • JWT • RBAC
 
-| Feature | Details |
-|---------|---------|
-| **Frontend** | React with responsive UI |
-| **Backend** | FastAPI REST APIs |
-| **Model** | Random Forest (5 models compared) |
-| **Pipeline** | End-to-end ML pipeline with feature importance |
+### 🎨 Frontend
 
-</details>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+</p>
 
-<br/>
+### 🗄️ Databases
 
-<!-- LOAN APPROVAL SYSTEM -->
-<details>
-<summary><b>💰 Loan Approval Prediction System</b> <i>(Click to expand)</i></summary>
-<br/>
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
+</p>
 
-> *React + Tailwind CSS + FastAPI + Scikit-Learn*
+### 🔧 Tools & Development
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham-tidke2005/LOAN_APPROVAL)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
+</p>
 
-🏦 **ML-powered loan approval** with **85.37% accuracy** using Logistic Regression!
+### 📊 Data & Machine Learning
 
-| Feature | Details |
-|---------|---------|
-| **Frontend** | React with Tailwind CSS |
-| **Backend** | FastAPI + Pydantic |
-| **Models** | 9 classification models evaluated |
-| **Metrics** | Accuracy, F1-score, ROC-AUC |
+**NumPy • Pandas • Scikit-Learn • Matplotlib • Plotly • Power BI • Jupyter Notebook**
 
-</details>
+---
 
-<br/>
+# ⭐ Featured Projects
 
-<!-- UBER DATA ANALYSIS -->
-<details>
-<summary><b>🚗 Uber Ride Data Analysis</b> <i>(Click to expand)</i></summary>
-<br/>
+## 🏥 MediVision AI
 
-> *Python + Pandas + SQLAlchemy + Power BI*
+**AI-Powered Healthcare Management Platform**
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham-tidke2005/uber_data_analysis)
+<a href="https://github.com/Shubham-tidke2005/MediVision">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
 
-📊 **Comprehensive EDA** on **10,000+ Uber ride records** with interactive dashboards!
+**Tech:** Python • FastAPI • React.js • PostgreSQL • SQLAlchemy • Pydantic • Alembic
 
-| Feature | Details |
-|---------|---------|
-| **Analysis** | Data cleaning, outlier detection, feature engineering |
-| **Visualization** | Interactive Power BI dashboards |
-| **Insights** | Ride demand trends & business metrics |
+A full-stack healthcare platform designed around complete patient, doctor, and administrator workflows.
 
-</details>
+### Highlights
 
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- 👥 **3 role-based users:** Patient, Doctor & Admin
+- 🗄️ **40-table PostgreSQL database**
+- 🔐 JWT authentication and RBAC
+- 🩺 Doctor discovery and appointment workflows
+- 📋 Clinical encounters and prescriptions
+- 📄 Medical document and medication management
+- 📈 Health tracking and patient data workflows
+- 🔔 Notification and administrative APIs
+- 🧩 Service/repository based backend architecture
+- 🔄 Alembic database migrations
+- ✅ Backend validation with Pydantic
 
-<!-- ====== INTERNSHIP ====== -->
-## 💼 **Internship Experience**
+---
+
+## 🍲 SmartFood
+
+**Food Donation & Redistribution Platform**
+
+<a href="https://github.com/Shubham-tidke2005/SmartFood">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+**Tech:** Python • Django • Django REST Framework • React.js • PostgreSQL
+
+A full-stack platform connecting food donors with receivers and volunteers to support efficient food redistribution.
+
+### Highlights
+
+- 👥 **4 user roles:** Donor, Receiver, Volunteer & Admin
+- 🍱 Donation creation and management
+- 📩 Receiver discovery and request workflow
+- 🚚 Volunteer fulfilment and logistics
+- 🔔 Notifications and status tracking
+- 📊 Analytics and recommendation workflows
+- 🔒 Verification and role-based access
+- ⚙️ Transaction-safe allocation workflows
+- 🧱 Database constraints and state validation
+- 🔐 Capacity reservation and assignment locking
+
+---
+
+## ✈️ Flight Price Prediction System
+
+**End-to-End Machine Learning Web Application**
+
+<a href="https://github.com/Shubham-tidke2005/Flight-Price-Prediction">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+**Tech:** React • FastAPI • Scikit-Learn • Random Forest
+
+### Highlights
+
+- 📊 Trained on **300K+ flight records**
+- 🧠 Compared **5 regression models**
+- 🌲 Random Forest achieved **98.49% R²**
+- ⚙️ End-to-end ML preprocessing pipeline
+- 🚀 FastAPI prediction APIs
+- 📈 Feature-importance and model-metrics endpoints
+- 💻 Responsive React frontend
+
+---
+
+## 💰 Loan Approval Prediction System
+
+**Machine Learning Based Loan Approval Platform**
+
+<a href="https://github.com/Shubham-tidke2005/LOAN_APPROVAL">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+**Tech:** React • Tailwind CSS • FastAPI • Scikit-Learn
+
+### Highlights
+
+- 🤖 Logistic Regression based prediction system
+- 🎯 **85.37% classification accuracy**
+- 🧪 Evaluated **9 classification models**
+- 🔧 Feature engineering and preprocessing
+- 🔢 Encoding and feature scaling
+- 📊 Accuracy, F1-score and ROC-AUC evaluation
+- ⚡ FastAPI + Pydantic prediction APIs
+- 🎨 Responsive React + Tailwind interface
+
+---
+
+## 📊 Uber Ride Data Analysis
+
+**Data Analysis & Business Intelligence Project**
+
+<a href="https://github.com/Shubham-tidke2005/uber_data_analysis">
+  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+**Tech:** Python • Pandas • SQLAlchemy • Power BI
+
+### Highlights
+
+- 🚕 Analyzed **10,000+ Uber ride records**
+- 🧹 Data cleaning and preprocessing
+- 🔍 Exploratory Data Analysis
+- 📌 Outlier detection
+- 🧠 Feature engineering
+- 📈 Trend and demand analysis
+- 📊 Interactive Power BI dashboards
+
+---
+
+# 🎯 Core Expertise
 
 <table>
 <tr>
-<td width="70%">
+<td width="50%" valign="top">
 
-### 🤖 **AI Leela (OM Intelligence)**
-> *Machine Learning with Full Stack Intern* | Dec 2025 - Feb 2026 | Nashik, India
+### 🐍 Python Development
 
-- ✅ Completed a **45-day industry internship** focused on **Machine Learning** and **Full-Stack AI Product Development**
-- ✅ Built AI-powered applications using **Python, JavaScript, React, FastAPI, Docker, Ubuntu, MySQL**, and API-driven development practices
-- ✅ Utilized **Git, GitHub, Generative AI tools**, and modern software development workflows while building industry-oriented projects
-- ✅ Delivered industry-oriented projects with production-ready code
+- FastAPI
+- Django
+- Django REST Framework
+- Pydantic
+- SQLAlchemy
+- Alembic
+- REST API development
+- Backend architecture
 
 </td>
-<td width="30%" align="center">
-  <img width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<td width="50%" valign="top">
+
+### 🤖 Machine Learning
+
+- Classification
+- Regression
+- Decision Trees
+- Random Forest
+- Logistic Regression
+- Feature Engineering
+- Feature Selection
+- Cross Validation
+- Hyperparameter Tuning
+- Model Evaluation
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔐 Backend Engineering
+
+- JWT Authentication
+- Authorization
+- RBAC
+- ORM
+- Database Design
+- API Validation
+- Transactional Workflows
+- Frontend/API Integration
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data & Analytics
+
+- NumPy
+- Pandas
+- Matplotlib
+- Plotly
+- Power BI
+- SQL
+- Exploratory Data Analysis
+- Business Insights
+
 </td>
 </tr>
 </table>
 
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ====== ACHIEVEMENTS ====== -->
-## 🏆 **Achievements & Certifications**
+# 🏆 Achievements
+
+🏅 **C-DAC Artificial Intelligence Bootcamp — 2025**  
+A+ Grade (**92/100**) and ranked in the **top 10% among 200+ participants**.
+
+
+💻 **300+ DSA Problems Solved**  
+Solved problems on **LeetCode and GeeksforGeeks** covering Data Structures and Algorithms.
+
+---
+
+# 🎓 Education
+
+**Bachelor of Engineering — Computer Engineering**  
+Savitribai Phule Pune University  
+**2023 — 2027 | CGPA: 9.2/10**
+
+Relevant Coursework:
+
+`Machine Learning` `Artificial Intelligence` `Data Structures & Algorithms` `DBMS` `Computer Networks`
+
+---
+
+# 💼 Experience
+
+### AI Leela (OM Intelligence)
+**Machine Learning & Full-Stack Intern**  
+📍 Nashik, India | **Dec 2025 — Feb 2026**
+
+During a 45-day industry internship, I worked on machine learning and full-stack application development using:
+
+`Python` `FastAPI` `React` `MySQL` `Docker` `REST APIs` `Git` `GitHub`
+
+Worked on backend APIs, database integration, frontend-backend communication, and industry-oriented application workflows.
+
+---
+
+# 📈 GitHub Analytics
 
 <div align="center">
 
-| Achievement | Details |
-|-------------|---------|
-| 🎓 **C-DAC AI Bootcamp (2025)** | A+ Grade (92/100) — Ranked **Top 10%** among 200+ participants in AI/ML training |
-| 🥈 **Academic Excellence Award (2024)** | **2nd Rank** in Computer Engineering Department with **9.73/10 CGPA** |
-| 💻 **DSA Problem Solving** | Solved **250+ problems** on LeetCode & GeeksforGeeks |
-| 🏅 **LeetCode** | Active problem solver with consistent practice |
-| 📈 **GeeksforGeeks** | Strengthened skills in DS, Algorithms, DP, Trees, Binary Search |
+<a href="https://github.com/Shubham-tidke2005">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham-tidke2005&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Shubham's GitHub Stats"/>
+</a>
+
+<a href="https://github.com/Shubham-tidke2005">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-tidke2005&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
 
 </div>
 
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ====== GITHUB STATS ====== -->
-## 📈 **GitHub Analytics**
+<br>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham-tidke2005&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-tidke2005&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=00FF88" />
-</div>
 
-<br/>
-
-<!-- ====== STREAK STATS ====== -->
-## 🔥 **Contribution Streak**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shubham-tidke2005&theme=radical&hide_border=true&background=0d1117&stroke=00FF88&ring=00FF88&fire=00FF88&currStreakLabel=00FF88" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<!-- ====== GITHUB TROPHIES ====== -->
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shubham-tidke2005&theme=radical&no-frame=true&row=2&column=4&bg_color=0d1117" alt="GitHub Trophies" />
-</div>
-
-<br/>
-
-<!-- ====== ACTIVITY GRAPH ====== -->
-## 📊 **Contribution Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shubham-tidke2005&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&color=00FF88&line=00FF88&point=00FF88" alt="GitHub Activity Graph" />
-</div>
-
-<br/>
-
-<!-- ====== CONTRIBUTION SNAKE ====== -->
-## 🐍 **Snake Eating My Contributions**
-
-<div align="center">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="Snake Animation" />
-</div>
-
-<br/>
-
-<!-- ====== RANDOM QUOTE ====== -->
-## ☕ **Random Developer Quote**
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ====== CURRENTLY LEARNING ====== -->
-## 🌱 **Currently Learning**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge&logo=ai&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLOps-008000?style=for-the-badge&logo=mlflow&logoColor=white" />
-</div>
-
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ====== CONNECT WITH ME ====== -->
-## 🤝 **Connect With Me**
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-tidke-0a6ab12a1)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tidkeshubham826@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/cYApcBnFzX)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/tidkeshuxaqd)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shubham-tidke2005)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://shubham-tidke2005.github.io)
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Shubham-tidke2005&hide_border=true" alt="GitHub Streak"/>
+</a>
 
 </div>
 
-<!-- ====== DIVIDER ====== -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ====== FOOTER ====== -->
+# 🧠 Currently Learning
+
+```text
+Advanced Backend Development
+        ↓
+System Design & Scalable APIs
+        ↓
+Machine Learning & Model Deployment
+        ↓
+Data Structures & Algorithms
+        ↓
+Production-Ready Full Stack Applications
+```
+
+---
+
+# 🚀 What I'm Working Toward
+
+I'm interested in opportunities where I can work on:
+
+`Python Backend` • `Full Stack Development` • `Machine Learning` • `AI Applications` • `Data Science` • `API Development`
+
+My goal is to build software that combines **strong engineering fundamentals with practical AI/ML capabilities**.
+
+---
+
+# 🤝 Let's Connect
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=400&lines=Thanks+for+visiting!;Star+⭐+if+you+like+it!;Keep+Coding!+💻" alt="Footer Typing" />
+
+<a href="mailto:tidkeshubham826@gmail.com">
+  <img src="https://img.shields.io/badge/Email-tidkeshubham826%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/shubham-tidke-0a6ab12a1">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/cYApcBnFzX/">
+  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <b>⭐ Show some love by starring my repositories! ⭐</b>
-</div>
 
-<br/>
+### 💡 Build • Learn • Solve • Improve
 
-<!-- ====== PINNED REPOSITORIES ====== -->
-<div align="center">
-  <b>📌 Pinned Repositories:</b><br>
-  <a href="https://github.com/Shubham-tidke2005/Flight-Price-Prediction">🛫 Flight Price Prediction</a> •
-  <a href="https://github.com/Shubham-tidke2005/LOAN_APPROVAL">💰 Loan Approval System</a> •
-  <a href="https://github.com/Shubham-tidke2005/uber_data_analysis">🚗 Uber Data Analysis</a>
-</div>
+⭐ **Thanks for visiting my profile!**
 
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 </div>
