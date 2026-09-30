@@ -1,387 +1,461 @@
 <div align="center">
 
-# 👋 Hi, I'm Shubham Tidke
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,18,24,30&text=Shubham%20Tidke&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Python%20Full%20Stack%20Developer%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Shubham Tidke"/>
 
-### 🐍 Python Full Stack Developer • 🤖 Machine Learning • 📊 Data Science
+<br/>
 
-<p>
-  <a href="https://github.com/Shubham-tidke2005">
-    <img src="https://img.shields.io/badge/GitHub-Shubham--tidke2005-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/shubham-tidke-0a6ab12a1">
-    <img src="https://img.shields.io/badge/LinkedIn-Shubham%20Tidke-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tidkeshubham826@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://leetcode.com/u/cYApcBnFzX/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=1000&color=17365D&center=true&vCenter=true&width=800&lines=Python+Full+Stack+Developer;Machine+Learning+Enthusiast;Backend+%26+REST+API+Developer;React+%2B+FastAPI+%2B+Django;Building+Real-World+AI+%26+Web+Applications;Learn+%E2%80%A2+Build+%E2%80%A2+Improve+%E2%80%A2+Repeat" alt="Typing Animation"/>
 
-<img src="https://komarev.com/ghpvc/?username=Shubham-tidke2005&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+<br/><br/>
+
+<a href="mailto:tidkeshubham826@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/shubham-tidke-0a6ab12a1">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Shubham-tidke2005">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="https://leetcode.com/u/cYApcBnFzX/">
+<img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I'm a **Computer Engineering student** and a **Python Full Stack Developer** with a strong interest in **Machine Learning, Data Science, backend engineering, and AI-powered applications**.
-
-I enjoy turning real-world problems into practical software by combining:
-
-- 🐍 Python backend development
-- ⚡ REST API design with FastAPI & Django
-- ⚛️ Modern frontend development with React
-- 🗄️ Relational database design & ORM
-- 🤖 Machine Learning and data-driven solutions
-- 🔐 Authentication, authorization & RBAC
-- 🐳 Docker-based development
-- 📊 Data analysis and visualization
-
-Currently, I'm focused on building **production-style full-stack applications** and strengthening my foundations in **DSA, Machine Learning, system design, and backend engineering**.
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
+# 👨‍💻 About Me
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,php" />
+I am a <b>Computer Engineering student</b> and <b>Python Full Stack Developer</b> passionate about
+<b>Machine Learning, Backend Development, Data Science, and AI-powered applications.</b>
 </p>
-
-### ⚙️ Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,fastapi" />
+I enjoy building practical software by combining <b>Python, REST APIs, React, databases,
+Machine Learning, authentication, and modern development practices.</b>
 </p>
 
-**Also working with:** Django REST Framework • Pydantic • SQLAlchemy • Alembic • REST APIs • JWT • RBAC
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" />
-</p>
-
-### 🔧 Tools & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" />
-</p>
-
-### 📊 Data & Machine Learning
-
-**NumPy • Pandas • Scikit-Learn • Matplotlib • Plotly • Power BI • Jupyter Notebook**
+</div>
 
 ---
 
-# ⭐ Featured Projects
+<div align="center">
 
-## 🏥 MediVision AI
-
-**AI-Powered Healthcare Management Platform**
-
-<a href="https://github.com/Shubham-tidke2005/MediVision">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-**Tech:** Python • FastAPI • React.js • PostgreSQL • SQLAlchemy • Pydantic • Alembic
-
-A full-stack healthcare platform designed around complete patient, doctor, and administrator workflows.
-
-### Highlights
-
-- 👥 **3 role-based users:** Patient, Doctor & Admin
-- 🗄️ **40-table PostgreSQL database**
-- 🔐 JWT authentication and RBAC
-- 🩺 Doctor discovery and appointment workflows
-- 📋 Clinical encounters and prescriptions
-- 📄 Medical document and medication management
-- 📈 Health tracking and patient data workflows
-- 🔔 Notification and administrative APIs
-- 🧩 Service/repository based backend architecture
-- 🔄 Alembic database migrations
-- ✅ Backend validation with Pydantic
-
----
-
-## 🍲 SmartFood
-
-**Food Donation & Redistribution Platform**
-
-<a href="https://github.com/Shubham-tidke2005/SmartFood">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-**Tech:** Python • Django • Django REST Framework • React.js • PostgreSQL
-
-A full-stack platform connecting food donors with receivers and volunteers to support efficient food redistribution.
-
-### Highlights
-
-- 👥 **4 user roles:** Donor, Receiver, Volunteer & Admin
-- 🍱 Donation creation and management
-- 📩 Receiver discovery and request workflow
-- 🚚 Volunteer fulfilment and logistics
-- 🔔 Notifications and status tracking
-- 📊 Analytics and recommendation workflows
-- 🔒 Verification and role-based access
-- ⚙️ Transaction-safe allocation workflows
-- 🧱 Database constraints and state validation
-- 🔐 Capacity reservation and assignment locking
-
----
-
-## ✈️ Flight Price Prediction System
-
-**End-to-End Machine Learning Web Application**
-
-<a href="https://github.com/Shubham-tidke2005/Flight-Price-Prediction">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-**Tech:** React • FastAPI • Scikit-Learn • Random Forest
-
-### Highlights
-
-- 📊 Trained on **300K+ flight records**
-- 🧠 Compared **5 regression models**
-- 🌲 Random Forest achieved **98.49% R²**
-- ⚙️ End-to-end ML preprocessing pipeline
-- 🚀 FastAPI prediction APIs
-- 📈 Feature-importance and model-metrics endpoints
-- 💻 Responsive React frontend
-
----
-
-## 💰 Loan Approval Prediction System
-
-**Machine Learning Based Loan Approval Platform**
-
-<a href="https://github.com/Shubham-tidke2005/LOAN_APPROVAL">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-**Tech:** React • Tailwind CSS • FastAPI • Scikit-Learn
-
-### Highlights
-
-- 🤖 Logistic Regression based prediction system
-- 🎯 **85.37% classification accuracy**
-- 🧪 Evaluated **9 classification models**
-- 🔧 Feature engineering and preprocessing
-- 🔢 Encoding and feature scaling
-- 📊 Accuracy, F1-score and ROC-AUC evaluation
-- ⚡ FastAPI + Pydantic prediction APIs
-- 🎨 Responsive React + Tailwind interface
-
----
-
-## 📊 Uber Ride Data Analysis
-
-**Data Analysis & Business Intelligence Project**
-
-<a href="https://github.com/Shubham-tidke2005/uber_data_analysis">
-  <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" />
-</a>
-
-**Tech:** Python • Pandas • SQLAlchemy • Power BI
-
-### Highlights
-
-- 🚕 Analyzed **10,000+ Uber ride records**
-- 🧹 Data cleaning and preprocessing
-- 🔍 Exploratory Data Analysis
-- 📌 Outlier detection
-- 🧠 Feature engineering
-- 📈 Trend and demand analysis
-- 📊 Interactive Power BI dashboards
-
----
-
-# 🎯 Core Expertise
+# ⚡ What I Build
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🐍 Python Development
+### 🐍
+<b>Python Backend</b>
 
-- FastAPI
-- Django
-- Django REST Framework
-- Pydantic
-- SQLAlchemy
-- Alembic
-- REST API development
-- Backend architecture
+FastAPI • Django • REST APIs
 
 </td>
-<td width="50%" valign="top">
 
-### 🤖 Machine Learning
+<td align="center" width="25%">
 
-- Classification
-- Regression
-- Decision Trees
-- Random Forest
-- Logistic Regression
-- Feature Engineering
-- Feature Selection
-- Cross Validation
-- Hyperparameter Tuning
-- Model Evaluation
+### ⚛️
+<b>Full Stack</b>
+
+React • Vite • Tailwind
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td align="center" width="25%">
 
-### 🔐 Backend Engineering
+### 🤖
+<b>Machine Learning</b>
 
-- JWT Authentication
-- Authorization
-- RBAC
-- ORM
-- Database Design
-- API Validation
-- Transactional Workflows
-- Frontend/API Integration
+Scikit-Learn • Model Evaluation
 
 </td>
-<td width="50%" valign="top">
 
-### 📊 Data & Analytics
+<td align="center" width="25%">
 
-- NumPy
-- Pandas
-- Matplotlib
-- Plotly
-- Power BI
-- SQL
-- Exploratory Data Analysis
-- Business Insights
+### 🗄️
+<b>Data & Databases</b>
+
+PostgreSQL • SQL • Power BI
 
 </td>
 </tr>
 </table>
 
----
-
-# 🏆 Achievements
-
-🏅 **C-DAC Artificial Intelligence Bootcamp — 2025**  
-A+ Grade (**92/100**) and ranked in the **top 10% among 200+ participants**.
-
-
-💻 **300+ DSA Problems Solved**  
-Solved problems on **LeetCode and GeeksforGeeks** covering Data Structures and Algorithms.
+</div>
 
 ---
 
-# 🎓 Education
+<div align="center">
 
-**Bachelor of Engineering — Computer Engineering**  
-Savitribai Phule Pune University  
-**2023 — 2027 | CGPA: 9.2/10**
+# 🛠️ Tech Stack
 
-Relevant Coursework:
+### 💻 Languages
 
-`Machine Learning` `Artificial Intelligence` `Data Structures & Algorithms` `DBMS` `Computer Networks`
+<img src="https://skillicons.dev/icons?i=python,js,cpp,java,php&perline=8" alt="Programming Languages"/>
+
+<br/><br/>
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=django,fastapi&perline=8" alt="Backend Technologies"/>
+
+<p>
+
+`Django REST Framework` `Pydantic` `SQLAlchemy` `Alembic`  
+`REST APIs` `JWT` `RBAC` `ORM` `API Validation`
+
+</p>
+
+### 🎨 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind&perline=8" alt="Frontend Technologies"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite&perline=8" alt="Databases"/>
+
+### 🤖 ML & Data
+
+<p>
+
+`NumPy` `Pandas` `Scikit-Learn` `Matplotlib`  
+`Plotly` `Power BI` `Jupyter Notebook`
+
+</p>
+
+### 🔧 Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode&perline=8" alt="Tools"/>
+
+</div>
 
 ---
+
+<div align="center">
+
+# 🚀 Featured Projects
+
+</div>
+
+## 🏥 MediVision AI
+
+<div align="center">
+
+### AI-Powered Healthcare Management Platform
+
+`Python` `FastAPI` `React.js` `PostgreSQL` `SQLAlchemy` `Pydantic` `Alembic`
+
+<p>
+
+<a href="https://github.com/Shubham-tidke2005/MediVision">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github" alt="MediVision GitHub"/>
+</a>
+
+</p>
+
+</div>
+
+> A full-stack healthcare platform supporting end-to-end workflows for patients, doctors, and administrators.
+
+<div align="center">
+
+| 👥 Roles | 🗄️ Database | 🔐 Security | ⚙️ Architecture |
+|:---:|:---:|:---:|:---:|
+| Patient • Doctor • Admin | 40-table PostgreSQL | JWT • RBAC | Service / Repository |
+
+</div>
+
+<div align="center">
+
+`Appointments` • `Clinical Encounters` • `Prescriptions` • `Medications`  
+`Medical Documents` • `Health Tracking` • `Notifications` • `Admin APIs`
+
+</div>
+
+---
+
+## 🍲 SmartFood
+
+<div align="center">
+
+### Food Donation & Redistribution Platform
+
+`Python` `Django` `Django REST Framework` `React.js` `PostgreSQL`
+
+<p>
+
+<a href="https://github.com/Shubham-tidke2005/SmartFood">
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github" alt="SmartFood GitHub"/>
+</a>
+
+</p>
+
+</div>
+
+> A full-stack platform connecting donors, receivers, volunteers, and administrators for food redistribution.
+
+<div align="center">
+
+| 👥 Roles | 🍱 Workflow | 🚚 Logistics | 🔐 Reliability |
+|:---:|:---:|:---:|:---:|
+| Donor • Receiver • Volunteer • Admin | Donation → Request → Fulfilment | Volunteer Assignment | Transactions • Locking |
+
+</div>
+
+<div align="center">
+
+`Donations` • `Requests` • `Fulfilment` • `Verification`  
+`Notifications` • `Analytics` • `Recommendations` • `Capacity Reservation`
+
+</div>
+
+---
+
+## ✈️ Flight Price Prediction
+
+<div align="center">
+
+### End-to-End Machine Learning Application
+
+<img src="https://img.shields.io/badge/300K%2B%20Records-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/5%20Models-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/98.49%25%20R²-2EA44F?style=for-the-badge"/>
+
+<br/><br/>
+
+`React` `FastAPI` `Scikit-Learn` `Random Forest`
+
+<br/><br/>
+
+<a href="https://github.com/Shubham-tidke2005/Flight-Price-Prediction">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="Flight Price Prediction"/>
+</a>
+
+<br/><br/>
+
+Worked with <b>300K+ records</b>, compared <b>5 regression models</b>, and built REST APIs for predictions,
+model metrics, and feature importance.
+
+</div>
+
+---
+
+## 💰 Loan Approval Prediction
+
+<div align="center">
+
+### Machine Learning Classification Platform
+
+<img src="https://img.shields.io/badge/85.37%25%20Accuracy-2EA44F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/9%20Models-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge"/>
+
+<br/><br/>
+
+`React` `Tailwind CSS` `FastAPI` `Scikit-Learn`
+
+<br/><br/>
+
+<a href="https://github.com/Shubham-tidke2005/LOAN_APPROVAL">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="Loan Approval"/>
+</a>
+
+<br/><br/>
+
+Built a classification system using <b>Logistic Regression</b>, evaluated <b>9 models</b>,
+and implemented preprocessing, feature engineering, scaling, and real-time prediction APIs.
+
+</div>
+
+---
+
+<div align="center">
+
+# 📊 Data Analysis Project
+
+## 🚕 Uber Ride Data Analysis
+
+`Python` `Pandas` `SQLAlchemy` `Power BI`
+
+<br/>
+
+📁 **10,000+ Records**  
+🧹 Data Cleaning • 🔎 EDA • 📌 Outlier Detection  
+🧠 Feature Engineering • 📈 Trend Analysis  
+📊 Interactive Power BI Dashboards
+
+<br/>
+
+<a href="https://github.com/Shubham-tidke2005/uber_data_analysis">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" alt="Uber Data Analysis"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
 
 # 💼 Experience
 
-### AI Leela (OM Intelligence)
-**Machine Learning & Full-Stack Intern**  
-📍 Nashik, India | **Dec 2025 — Feb 2026**
+## AI Leela (OM Intelligence)
 
-During a 45-day industry internship, I worked on machine learning and full-stack application development using:
+### Machine Learning & Full-Stack Intern
+
+📍 Nashik, India  
+🗓️ **Dec 2025 — Feb 2026**
+
+</div>
+
+<div align="center">
+
+45-day industry internship focused on **Machine Learning and Full-Stack Development**.
+
+<br/><br/>
 
 `Python` `FastAPI` `React` `MySQL` `Docker` `REST APIs` `Git` `GitHub`
 
-Worked on backend APIs, database integration, frontend-backend communication, and industry-oriented application workflows.
+<br/><br/>
 
----
-
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/Shubham-tidke2005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shubham-tidke2005&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Shubham's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/Shubham-tidke2005">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubham-tidke2005&layout=compact&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Shubham-tidke2005&hide_border=true" alt="GitHub Streak"/>
-</a>
+**Backend Development** → **REST APIs** → **Database Integration**  
+**Frontend ↔ Backend Integration** → **Machine Learning**
 
 </div>
 
 ---
 
-# 🧠 Currently Learning
+<div align="center">
 
-```text
-Advanced Backend Development
-        ↓
-System Design & Scalable APIs
-        ↓
-Machine Learning & Model Deployment
-        ↓
-Data Structures & Algorithms
-        ↓
-Production-Ready Full Stack Applications
-```
+# 🏆 Achievements
+
+<table>
+<tr>
+
+<td align="center">
+
+### 🥇 C-DAC AI Bootcamp
+
+<b>A+ Grade — 92/100</b>
+
+Top 10% among 200+ participants
+
+</td>
+
+<td align="center">
+
+### 🎓 Academic Excellence
+
+<b>Second Rank</b>
+
+Computer Engineering Department  
+9.73/10 CGPA
+
+</td>
+
+<td align="center">
+
+### 💻 DSA
+
+<b>300+ Problems</b>
+
+LeetCode + GeeksforGeeks
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🚀 What I'm Working Toward
+<div align="center">
 
-I'm interested in opportunities where I can work on:
+# 🎓 Education
 
-`Python Backend` • `Full Stack Development` • `Machine Learning` • `AI Applications` • `Data Science` • `API Development`
+### Bachelor of Engineering — Computer Engineering
 
-My goal is to build software that combines **strong engineering fundamentals with practical AI/ML capabilities**.
+**Savitribai Phule Pune University**
+
+`2023 — 2027` • **CGPA: 9.2/10**
+
+<br/>
+
+**Relevant Coursework**
+
+`Machine Learning` `Artificial Intelligence`  
+`Data Structures & Algorithms` `DBMS` `Computer Networks`
+
+</div>
 
 ---
+
+<div align="center">
+
+# 🧠 Currently Focused On
+
+<table>
+<tr>
+
+<td align="center">⚙️<br/><b>Advanced Backend</b></td>
+<td align="center">🏗️<br/><b>System Design</b></td>
+<td align="center">🤖<br/><b>ML Deployment</b></td>
+<td align="center">🧩<br/><b>DSA</b></td>
+<td align="center">🚀<br/><b>Scalable Apps</b></td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+# 💡 Development Philosophy
+
+### Build. Learn. Improve. Repeat.
+
+**Problem Solving** × **Engineering** × **Data** × **User Experience**
+
+</div>
+
+---
+
+<div align="center">
 
 # 🤝 Let's Connect
 
-<div align="center">
+<br/>
 
 <a href="mailto:tidkeshubham826@gmail.com">
-  <img src="https://img.shields.io/badge/Email-tidkeshubham826%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shubham-tidke-0a6ab12a1">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<a href="https://github.com/Shubham-tidke2005">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
 <a href="https://leetcode.com/u/cYApcBnFzX/">
-  <img src="https://img.shields.io/badge/LeetCode-300%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
+
+<br/><br/>
+
+📧 **tidkeshubham826@gmail.com**
 
 </div>
 
@@ -389,8 +463,12 @@ My goal is to build software that combines **strong engineering fundamentals wit
 
 <div align="center">
 
-### 💡 Build • Learn • Solve • Improve
+### 🌟 Thanks for visiting my profile!
 
-⭐ **Thanks for visiting my profile!**
+**Python • Full Stack • Machine Learning • Data Science**
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,18,24,30" width="100%" alt="Footer"/>
 
 </div>
